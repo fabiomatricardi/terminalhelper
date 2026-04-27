@@ -91,6 +91,7 @@ WikiHelp_App/
 ```
 ✅ Changes to `documentation/` are reflected immediately on the next run. No rebuild required.
 
+### NOTE: add your `WikiHelp_App/` to the Environment variable so you ca call the helper from whatever place in the terminal!
 ---
 
 ## 📝 Documentation Format Guidelines
