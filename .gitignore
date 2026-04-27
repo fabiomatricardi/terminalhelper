@@ -1,0 +1,3 @@
+# folders not to push
+dist/
+build/
