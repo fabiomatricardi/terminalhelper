@@ -2,7 +2,7 @@ WINDOWS BATCH FILE PROGRAMMING LOGIC
 
 How to use `.bat` files like a pro
 
-```bash
+```bat
 @echo off
 echo Downloading the wget binaries...
 curl -L -o wget.exe https://github.com/fabiomatricardi/VisualAI-4ALL/raw/main/wget.exe
@@ -22,7 +22,7 @@ timeout /t 10
 start http://localhost:8080
 ```
 
-```bash
+```bat
 :: source https://stackoverflow.com/questions/14529246/multiple-choices-menu-on-batch-file
 :: color codes from 
 :: https://gist.githubusercontent.com/mlocati/fdabcaeb8071d5c75a2d51712db24011/raw/b710612d6320df7e146508094e84b92b34c77d48/win10colors.cmd
@@ -82,7 +82,7 @@ pause
 exit
 ```
 
-```bash
+```bat
 :: source https://stackoverflow.com/questions/14529246/multiple-choices-menu-on-batch-file
 :: color codes from 
 :: https://gist.githubusercontent.com/mlocati/fdabcaeb8071d5c75a2d51712db24011/raw/b710612d6320df7e146508094e84b92b34c77d48/win10colors.cmd
